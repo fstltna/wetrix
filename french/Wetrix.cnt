@@ -1,0 +1,73 @@
+:Title Wetrix Help
+1 INSTALLATION=IN_CONTENTS@Wetrix.hlp>main
+1 DÉMARRAGE
+2 Démarrage=GS_CONTENTS@Wetrix.hlp>main
+2 Exécution de Wetrix for Windows=GS_WINDOWS@Wetrix.hlp>main
+2 Menus Jeu
+3 Menus Jeu=GS_MENUS@wetrix.hlp>main
+3 Menu principal=GS_MAIN_MENU@Wetrix.hlp>main
+3 Menu Modes Casse-tête
+4 Menu Modes Casse-tête=GS_PUZZLE_MODES_MENU@wetrix.hlp>main
+4 Menu Modes Défi=GS_CHALLENGE_MODES_MENU@wetrix.hlp>main
+4 Menu Modes Handicap=GS_HANDICAP_MODES_MENU@wetrix.hlp>main
+3 Menu Options de contrôle
+4 Menu Options de contrôle=GS_OPTIONS_MENU@wetrix.hlp>main
+4 Menu Scores=GS_SCORES_MENU@wetrix.hlp>main
+4 Menu Valider=GS_VALIDATE_MENU@wetrix.hlp>main
+1 DÉROULEMENT DU JEU
+2 Déroulement du Jeu=GP_CONTENTS@Wetrix.hlp>main
+2 Types de jeux
+3 Types de jeux=GP_TYPES@Wetrix.hlp>main
+3 Wetrix Classique=GP_CLASSIC@wetrix.hlp>main
+3 Wetrix Pro=GP_PRO@wetrix.hlp>main
+3 Mode Entraînement=GP_PRACTICE@wetrix.hlp>main
+3 Modes Casse-tête
+4 Modes Défi
+5 Défi 1 minute=GP_CHALLENGE_1MIN@wetrix.hlp>main
+5 Défi 5 minutes=GP_CHALLENGE_5MIN@wetrix.hlp>main
+5 Défi 100 éléments=GP_CHALLENGE_100P@wetrix.hlp>main
+5 Défi 500 éléments=GP_CHALLENGE_500P@wetrix.hlp>main
+5 Séquence prédéfinie A=GP_CHALLENGE_SEQA@wetrix.hlp>main
+5 Séquence prédéfinie B=GP_CHALLENGE_SEQB@wetrix.hlp>main
+4 Modes Handicap
+5 Soulèvement de terrain A=GP_HANDICAP_RASA@wetrix.hlp>main
+5 Soulèvement de terrain B=GP_HANDICAP_RASB@wetrix.hlp>main
+5 Couche de glace A=GP_HANDICAP_ICEA@wetrix.hlp>main
+5 Couche de glace B=GP_HANDICAP_ICEB@wetrix.hlp>main
+5 Terrain aléatoire=GP_HANDICAP_RNDL@wetrix.hlp>main
+5 Trous aléatoires=GP_HANDICAP_RNDH@wetrix.hlp>main
+5 Drain à moitié plein=GP_HANDICAP_DRAH@wetrix.hlp>main
+4 Modes Joueurs multiples=GP_MULTI@wetrix.hlp>main
+2 Le Jeu
+3 Procédure=GP_HOW@WETRIX.HLP>main
+3 Mode 2 joueurs=GP_1V2@WETRIX.HLP>main
+1 FONCTIONS DU JEU
+2 Fonctions du Jeu=GF_CONTENTS@Wetrix.hlp>main
+2 Eléments=GF_PIECES@Wetrix.hlp>main
+2 Evénements=GF_EVENTS@Wetrix.hlp>main
+2 Autres éléments du jeu=GF_OTHER@Wetrix.hlp>main
+2 Fonctions Joueurs multiples=GF_MULTI@Wetrix.hlp>main
+2 Scores élevés=GF_HI_SCORES@Wetrix.hlp>main
+1 CONTROLES DU JEU
+2 Contrôles du Jeu=GC_CONTENTS@Wetrix.hlp>main
+2 Clavier=GC_KEYBOARD@Wetrix.hlp>main
+2 Souris=GC_MOUSE@Wetrix.hlp>main
+1 TECHNIQUES ÉVOLUÉES
+2 Techniques Évoluées=AT_CONTENTS@Wetrix.hlp>main
+2 Flèches haut=AT_UPPERS@Wetrix.hlp>main
+2 Flèches bas=AT_DOWNERS@Wetrix.hlp>main
+2 Bombes=AT_BOMBS@Wetrix.hlp>main
+2 Boules de feu=AT_FIREBALLS@wetrix.hpl>main
+2 Glace=AT_ICE@Wetrix.hlp>main
+2 Mines=AT_MINES@Wetrix.hlp>main
+2 Arc-en-ciel=AT_RAINBOW@Wetrix.hlp>main
+2 Canard en caoutchouc=AT_RUBBER@Wetrix.hlp>main
+2 Barre d’énergie=AT_ENERGY@Wetrix.hlp>main
+2 Lacs=AT_LAKES@wetrix.hlp>main
+2 Mode Fenêtre=AT_WINDOWED@Wetrix.hlp>main
+1 CREDITS
+2 Crédits=CR_CONTENTS@Wetrix.hlp>main
+2 Equipe de développement de Zed Two=CR_ZEDTWO@Wetrix.hlp>main
+2 Equipe de production d'Ocean=CR_OCEAN@wetrix.hlp>main
+2 Crédits supplémentaires=CR_OTHER@wetrix.hlp>main
+2 Remerciements particuliers=CR_SPECIAL@wetrix.hlp>main

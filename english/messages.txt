@@ -1,0 +1,170 @@
+===================================
+Wetrix Game Text - English Language
+===================================
+
+Key names - used when redefining keys
+________________________________________
+
+"","","1","2","3","4","5","6","7","8","9","0","-","+","backspace","tab",  //0-15
+"q","w","e","r","t","y","u","i","o","p","l bracket","r bracket","enter","ctrl","a","s", //16-31
+"d","f","g","h","j","k","l","","","","left shift","","z","x","c","v",  //32-47
+"b","n","m",",",".","/","right shift","","alt gr","space","","","","","","",  //48-63
+"","","","","","num lock","","numpad 7","cursor up","numpad 9","","cursor left","numpad 5","cursor right","+","numpad 1",  //64-79
+"cursor down","numpad 3","numpad 0",".","","","backslash","","","","","","","","","",  //80-95
+"","","","","","","","","","","","","","","","",  //96-111
+"","","","","","","","","","","","","","","",""  //112-127
+
+______________________________________________
+
+Screen Text - All text messages used in game
+______________________________________________
+
+    "by zed two ltd.",        		// 0
+    "leave net game?",              	// 1
+    "cd audio track:",                  // 2
+    "score:",                   	// 3
+    "bonus:",                   	// 4
+    "name:",         		// 5
+    "press space to start",     	// 6
+    "repair bonus:",            	// 7
+    "i started the game",       	// 8
+    "game started by server",        	// 9
+    "level:",                   	// 10
+    "next:",                   	 	// 11
+    "validate",    // 12
+    "ready to begin - press fire",      // 13
+    "waiting for server to begin play", // 14
+    "another go?",               	// 15
+    "select",                   	// 16
+    "paused",            		// 17
+    "yes",                     	 	// 18
+    "no",                       	// 19
+    "practice mode",            	// 20
+    "wetrix: classic",            	// 21
+    "wetrix: pro'",               	// 22
+    "options",                  // 23
+    "- go back -",                  	// 24
+    "resume game",              	// 25
+    "restart game",              	// 26
+    "quit game",                 	// 27
+    "raised land a",             	// 28
+    "raised land b",             	// 29
+    "ice layer a",             		// 30
+    "ice layer b",             		// 31
+    "random land",               	// 32
+    "random holes",                     // 33
+    "half full drain",                  // 34
+    "increased speed +2",               // 35
+    "1up vs. 2up",                    	// 36
+    "netmatch",                       	// 37
+    "increased speed +5",               // 38
+    "wetrix: classic hi scores",      // 39
+    "wetrix: pro hi scores",		// 40
+    "puzzle modes",         		// 41
+    "challenge modes",        		// 42
+    "handicap modes",        		// 43
+    "1 minute challenge",         	// 44
+    "5 minute challenge",         	// 45
+    "100 piece challenge",        	// 46
+    "500 piece challenge",        	// 47
+    "preset sequence a",         	// 48
+    "preset sequence b",       		// 49
+	"  no lakes",			// 50
+	" one lake",			// 51
+	" two lakes",			// 52
+	"three lakes",			// 53
+	"four lakes",			// 54
+	"five  lakes",			// 55
+	" six lakes",			// 56
+	"seven lakes",			// 57
+	"eight lakes",			// 58
+	"nine  lakes",			// 59
+	" ten lakes",			// 60
+	"1up: key layout a",		// 61
+	"1up: mouse",			// 62
+	"1up: joypad",			// 63
+	"0123456789abcdef",				// 64
+  	"2up: key layout b",		// 65
+	"2up: mouse",			// 66
+	"2up: joypad",			// 67
+	"code:",		  		// 68
+	"multi-player modes",		// 69
+	"2 player split-screen",	// 70
+	"2 player network",		// 71
+	"multi-player network",		// 72
+	"network game setup",		// 73
+	"start new game",		// 74
+	"join existing game",		// 75
+	" ",				// 76
+	"-",				// 77
+	"-",				// 78
+	"-",				// 79
+	"-",				// 80
+	"-",				// 81
+	"-",				// 82
+	"-",				// 83
+	"choose directplay provider",	// 84
+	"-", 				// 85
+	"-", 				// 86
+	"-", 				// 87
+	"-", 				// 88	
+	"-", 				// 89
+	"-", 				// 90
+	"player 1 name here",  		// 91
+	"player 2 name here",		// 92
+	"player 3 name here",		// 93
+	"player 4 name here",		// 94
+	"player 5 name here",		// 95
+	"player 6 name here",		// 96
+	"player 7 name here",		// 97
+	"left the game",		// 98
+	"was knocked out by",		// 99
+	"has joined the game",		// 100
+	"flags",			// 101
+	"of",				// 102
+	"is the winner",		// 103
+	"waiting for other players...",	// 104
+	"waiting for server...",	// 105
+	"game on...",			// 106
+	"game over...",			// 107
+	"launched water attack on",	// 108
+	"launched ice attack on",	// 109
+	"launched quake attack on",	// 110
+	"launched bomb attack on",	// 111
+    	"received updated player data", // 112
+	"found:",			// 113
+	"change backdrop",		// 114
+	"change floor pattern",		// 115
+	"name:",	// 116
+	"redefine key layout a",  	// 117
+	"redefine key layout b",	// 118
+	"choose keys...",		// 119
+	"move up:",			// 120
+	"move down:",			// 121
+	"move left:",			// 122
+	"move right:",			// 123
+	"drop piece:",			// 125
+	"rotate piece:",		// 124
+	"launch attack:",		// 126
+	"select target:",		// 127
+	"press esc when done", 		// 128
+	"challenge mode records", 	// 129
+	"handicap mode records",  	// 130
+	"warning!", 			// 131
+	"lakes:",  			// 132
+	"scores" 			// 133
+
+Game over ratings...
+
+	"rating:" 			// 134
+	"try practice mode"	 	// 135
+  	"beginner" 			// 136
+     	"mediocre" 			// 137
+     	"competent" 			// 138
+     	"skillful" 			// 139
+     	"excellent" 			// 140
+   	"wetrix expert" 		// 141
+        "wetrix master" 		// 142 
+        "amazing" 			// 143
+        "unbelievable!"			// 144
+	"dry ice bonus:"		// 145

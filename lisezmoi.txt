@@ -1,0 +1,140 @@
+
+
+WETRIX - Ajouts au manuel
+
+---------------------------------
+
+TABLE DES MATIERES
+(1) Configuration n‚cessaire
+(2) Installation
+(3) Direct X
+(4) ProblŠmes vid‚o
+(5) Configuration sous Windows
+(6) Lecteur de CD ROM
+(7) D‚sinstallation
+(8) D‚pannage
+(9) Assistance
+
+---------------------------------
+
+(1)	CONFIGURATION NECESSAIRE
+
+Configuration minimale n‚cessaire pour ex‚cuter Wetrix :
+
+Windows 95/98
+Pentium 90 
+16 Mo de RAM 
+Lecteur CD (double vitesse minimum)
+Direct X 5 ou une version ult‚rieure
+15 Mo d'espace sur le disque dur (installation minimale)
+
+Configuration recommand‚e :
+
+Pentium 166 ou plus
+32 Mo de RAM ou plus
+Souris compatible Microsoft
+Carte son AWE 64
+32 Mo d'espace sur le disque dur (installation standard)
+
+
+
+(2) 	INSTALLATION
+
+(i)	Ex‚cution automatique (Autorun)
+Si vous avez activ‚ l'option d'ex‚cution automatique (Autorun) sur votre ordinateur, il suffit d'ins‚rer le CD Wetrix pour lancer le programme d'installation. Si ce programme ne d‚marre pas automatiquement, affichez le contenu du CD (… travers l'explorateur ou … travers votre poste de travail) et double-cliquez sur le fichier 'Setup'.
+
+
+
+(3) 	DIRECT X
+
+(i)	Installation de Direct X
+Pour que Wetrix fonctionne sous Windows 95, il est n‚cessaire d'installer Direct X 5 (ou une version ult‚rieure) sur votre machine. Direct X n'est pas install‚ automatiquement en mˆme temps que Wetrix, mais il est fourni sur le CD. Si un message d'erreur signale que le fichier DDRAW.DLL est introuvable lorsque vous essayez d'ex‚cuter Wetrix, cela signifie que vous devez installer Direct X.
+Pour installer Direct X, cliquez avec le bouton droit de la souris sur l'ic“ne du CD sous ® Poste de travail ¯, cliquez sur le dossier 'directx' et ex‚cutez le programme 'dxsetup' en double-cliquant dessus. S‚lectionnez l'option 'Reinstall DirectX'. AprŠs avoir install‚ Direct X, n'oubliez pas de red‚marrer Windows. Veillez donc … quitter tous les programmes en cours d'ex‚cution avant de commencer l'installation car vous risqueriez de perdre des donn‚es.
+
+(ii)	Windows 98 
+Windows 98 intŠgre sa propre version de Direct X (pr‚-install‚e). Si vous utilisez Windows 98 comme systŠme d'exploitation, vous n'avez donc pas besoin d'installer Direct X … partir du CD Wetrix pour ex‚cuter le jeu sur votre ordinateur.
+
+(iii)	Utilitaires Powerdesk, etc. 
+Une fois install‚, Direct X se chargera trŠs souvent de retirer les utilitaires Powerdesk susceptibles d'ˆtre utilis‚s par la carte vid‚o de votre ordinateur (s'il s'agit d'une carte Matrox Millennium, par exemple, l'utilitaire Matrox Powerdesk sera automatiquement supprim‚). Cette fonction est sp‚cifique … DirectX et ne devrait pas, en principe, poser de problŠme de configuration ou de fonctionnement de votre ordinateur.
+
+En cas de difficult‚ pour installer DirectX sur votre ordinateur, veuillez prendre contact directement avec Microsoft.
+
+
+
+(4)	PROBLEMES VIDEO
+
+(i)	Ex‚cution de Wetrix dans une fenˆtre 
+Si vous ex‚cutez le jeu dans une fenˆtre, il est conseill‚ de choisir un mode d'affichage en couleurs 16 bits minimum pour le bureau de Windows. Si vous optez pour le mode 256 couleurs, vous risquez d'obtenir une palette de couleurs qui ne sera pas bonne.
+
+(ii)	ProblŠmes lors de l'ex‚cution du jeu en mode plein ‚cran 320*240
+Si vous rencontrez des problŠmes pour ex‚cuter le jeu en mode plein ‚cran '320*240', s‚lectionnez la r‚solution '640*480 scaled'. Cela permet d'appliquer la mˆme r‚solution (320*240), mais les tests ont prouv‚ que l'affichage ‚tait beaucoup plus stable ainsi. 
+
+(iii)	Gestionnaires de cartes vid‚o
+En cas de problŠme graphique, veuillez vous procurer les gestionnaires les plus r‚cents pr‚vus pour votre carte vid‚o. On a constat‚, par exemple, qu'un jeu de gestionnaires destin‚ aux cartes vid‚os de type ATI Rage II posait des problŠmes en mode plein ‚cran 320*240 et qu'il fallait, en fait, utiliser les derniers gestionnaires disponibles pour r‚soudre le problŠme.
+
+
+
+(5)  	CONFIGURATION SOUS WINDOWS
+
+(i)	Bureaux virtuels
+Si vous avez choisi de configurer Windows avec un bureau virtuel, il est pr‚f‚rable de le d‚sactiver avant d'ex‚cuter Wetrix, car la r‚solution d'‚cran de Windows risque de changer au moment o— vous quittez le jeu.
+
+(ii)	///Bureau actif
+Si vous jouez sur un ordinateur sur lequel vous avez activ‚ la fonction 'Bureau actif'de Microsoft Internet Explorer 4, il est possible que la barre des tƒches de Windows apparaisse un peu plus haut … l'‚cran lorsque vous quittez le bureau actif. Pour r‚soudre ce problŠme, il suffit de refaire glisser la barre des tƒches … l'endroit o— elle se trouvait, … l'aide de la souris.
+
+(iii)	Curseur de la souris
+Pour ex‚cuter Wetrix, il est recommand‚ d'utiliser le curseur propos‚ par d‚faut par Windows et de ne pas afficher la traŒn‚e du pointeur. Pour ce faire, ouvrez le menu DEMARRER … partir de la barre des tƒches de Windows et s‚lectionnez l'ic“ne 'Panneau de configuration' dans le menu 'ParamŠtres'. Cliquez ensuite deux fois sur l'option 'Souris' du Panneau de configuration pour afficher la fenˆtre 'Propri‚t‚s de Souris'. Pour s‚lectionner le curseur par d‚faut, cliquez sur l'onglet 'Pointeurs', assurez-vous que l'option 'S‚lection normale' est s‚lectionn‚e et cliquez sur le bouton 'Utiliser les options par d‚faut' en bas de l'‚cran (s'il est impossible de s‚lectionner ce bouton, cela signifie que vous utilisez d‚j… le curseur par d‚faut). Pour ‚liminer la traŒn‚e du pointeur, cliquez sur l'onglet 'Mouvement du pointeur' de la fenˆtre 'Propri‚t‚s de Souris' et assurez-vous que la case 'Afficher la traŒn‚e du pointeur' n'est pas coch‚e.
+
+(iv) R‚duction de Wetrix en ic“ne
+Si vous avez besoin de r‚duire Wetrix, ‚vitez de faire appel au raccourci clavier ALT/TAB en cas d'ex‚cution du jeu en mode plein ‚cran. Pour acc‚der au bureau Windows en cours de jeu, nous vous conseillons de s‚lectionner le mode d'affichage en fenˆtre 320*240.
+
+
+
+(6)	LECTEURS DE CD ROM
+
+(i) 	Lecteur mode multi-CDs
+Si vous installez le jeu sur un ordinateur ‚quip‚ d'un lecteur multi-disque (c'est-…-dire, un lecteur pouvant accueillir plusieurs CD), vous devez imp‚rativement placer le CD Wetrix dans le premier plateau. En effet, si vous choisissez un autre plateau, vous parviendrez … ex‚cuter le jeu mais sans la musique.
+
+
+
+(7)   DESINSTALLATION
+
+(i) D‚sinstallation de Wetrix
+Pour d‚sinstaller Wetrix, ouvrez la fenˆtre 'Propri‚t‚s de Ajout/Suppression de programmes' … partir du 'Panneau de configuration' (auquel vous acc‚dez en choisissant l'option correspondante dans le sous-menu 'ParamŠtres' du menu DEMARRER). Cliquez sur l'onglet 'Installation/D‚sinstallation' et s‚lectionnez l'option 'Wetrix for Windows 95', puis cliquez sur le bouton 'Ajouter/Supprimer'.
+
+
+
+(8)	DEPANNAGE
+
+En cas de problŠme lors de l'ex‚cution du jeu, voici quelques mesures … prendre pour trouver une solution :
+
+(i)	Installez Direct X manuellement
+Vous avez la possibilit‚ d'installer vous-mˆme Direct X. Pour ce faire, explorez l'unit‚ du CD (cliquez avec le bouton droit de la souris sur l'ic“ne du CD sous 'Poste de travail'), affichez le contenu du dossier 'directx' et ex‚cutez le programme 'dxsetup' en double-cliquant dessus. S‚lectionnez l'option 'Reinstall DirectX'. 
+
+(ii)	V‚rifiez si tous les pilotes Direct X sont certifi‚s
+Pour savoir si les pilotes sont certifi‚s, commencez par ex‚cuter le programme 'dxsetup' … partir du CD Wetrix (reportez-vous aux instructions donn‚es ci-dessus). Une liste des diff‚rents 'Composants' doit apparaŒtre … l'‚cran. Pour que les derniŠres versions des logiciels fonctionnent sans problŠme, le 'Pilote d'affichage principal' et le 'P‚riph‚rique de son principal' doivent porter la mention 'Certifi‚'. Si ce n'est pas le cas, essayez d'installer Direct X de fa‡on manuelle ou adressez-vous au fabricant de votre carte vid‚o/son pour vous procurer les derniers pilotes Windows disponibles.
+
+(iii)	R‚installez le jeu
+Il suffit parfois de d‚sinstaller Wetrix puis de le r‚installer pour r‚soudre le problŠme.
+
+(iv)	Assurez-vous qu'aucun autre programme est en cours d'ex‚cution  
+Quittez toutes les autres applications avant de lancer Wetrix.
+
+
+
+(9)	ASSISTANCE OCEAN/INFOGRAMES
+
+Si vous rencontrez d'autres problŠmes, vous pouvez nous contacter du lundi au vendredi entre 14H00 et 19H00 :
+
+Infogrames France
+Service Hotline
+4, rue des Draperies
+69532 ST CYR AU MONT D'OR Cedex
+Tel : 04 72 53 32 00
+Fax : 04 72 53 32 50
+E-mail : support@infogrames.fr <mailto:support@infogrames.fr>  
+Web : http://www.infogrames.fr/ 
+
+Essayez de donner le maximum d'informations possibles au sujet de votre problŠme et de votre ordinateur.
+
+

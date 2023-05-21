@@ -1,0 +1,202 @@
+===================================
+Wetrix Game Text - Dutch Language
+===================================
+
+Key names - used when redefining keys
+________________________________________
+
+"","","1","2","3","4","5","6","7","8","9","0","-","+","backspace","tab",  //0-15
+"q","w","e","r","t","y","u","i","o","p","l bracket","r bracket","enter","ctrl","a","s", //16-31
+"d","f","g","h","j","k","l","","","","left shift","","z","x","c","v",  //32-47
+"b","n","m",",",".","/","right shift","","alt gr","space","","","","","","",  //48-63
+"","","","","","num lock","","numpad 7","cursor up","numpad 9","","cursor left","numpad 5","cursor right","+","numpad 1",  //64-79
+"cursor down","numpad 3","numpad 0",".","","","backslash","","","","","","","","","",  //80-95
+"","","","","","","","","","","","","","","","",  //96-111
+"","","","","","","","","","","","","","","",""  //112-127
+
+______________________________________________
+
+Screen Text - All text messages used in game
+______________________________________________
+
+"by zed two ltd."
+"beëindig het spel?"
+"cd audio track"
+"score:"
+"bonus:"
+"naam:"
+"klik op spatiebalk om te starten"
+"reparatie bonus:"
+"ik startte het spel"
+"de server startte het spel"
+
+"level:"				//10
+"volgende"
+"score codes"
+"klaar om te beginnen - druk op een knop"
+"bezig met wachten op de server"
+"opnieuw?"
+"kies"
+"pauze"
+"ja"
+"nee"
+
+"oefening modus"			//20
+"wetrix klassiek"
+"wetrix pro"
+"opties"
+"- terug -"
+"doorgaan"
+"overnieuw"
+"stop"
+"verhoogd terrein a"
+"verhoogd terrein b"
+
+"ijslaag a"				//30
+"ijslaag b"
+"willekeurig terrein"
+"willekeurige kuilen"
+"halfvolle afvoerbuis"
+"verhoogde snelheid plus twee"
+"1up tegen 2up"
+"net wedstrijd"
+"verhoogde snelheid plus vijf"
+"wetrix klassiek hi scores"
+
+"wetrix pro hi scores"			//40
+"puzzel modus"
+"uitdaging modus"
+"handicap modus"
+"1 minuut uitdaging"
+"5 minuten uitdaging"
+"100 stukjes uitdaging"
+"500 stukjes uitdaging"
+"voorafingestelde reeks a"
+"voorafingestelde reeks b"
+
+"geen meren"				//50
+"één meer"
+"twee meren"
+"drie meren"
+"vier meren"
+"vijf meren"
+"zes meren"
+"zeven meren"
+"acht meren"
+"negen meren"
+
+"tien meren"				//60
+"1up: toetsenbord a"
+"1up: muis"
+"1up: joypad"
+""
+"2up: toetsenbord b"
+"2up: muis"
+"2up: joypad"
+"codes:"
+"multi-player"
+
+"2 speler split-screen"			//70
+"2 speler netwerk"
+"multi-player netwerk"
+"netwerk instellingen"
+"begin een nieuw spel"
+"meedoen met een bestaand spel"
+""
+""
+""
+""
+
+""					//80
+""
+""
+""
+"kies directplay provider"
+""
+""
+""
+""
+""
+
+""					//90
+""
+""
+""
+""
+""
+""
+""
+"is er mee gestopt"
+"werd eruit gemept door"
+
+"doet nu mee"				//100
+"vlaggen"			
+"of"
+"heeft gewonnen"
+"bezig met wachten op andere spelers"
+"bezig met wachten op de server"
+"Spel begint…"
+"game over…"
+""
+""
+
+""					//110
+""
+"nieuwe speler informatie ontvangen"
+"gevonden:"
+"verander achtergrond"
+"verander vloer patroon"
+"naam:"
+"verander toetsen A"
+"verander toetsen A"
+"kies toetsen"
+
+"omhoog:"				//120
+"omlaag:"
+"links:"
+"rechts:"
+"blok vallen:"
+"blok draaien:"
+"aanvallen:"
+"doel kiezen:"
+"druk op esc om terug"
+"uitdaging mode records"
+
+"handicap mode records"			//130
+"waarschuwing!"
+"meren:"
+"scores"
+"droog ijs bonus"
+""
+""
+""
+""
+""
+""
+
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+""
+""
+""
+

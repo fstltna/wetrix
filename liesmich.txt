@@ -1,0 +1,165 @@
+WETRIX - ErgÑnzungen zum Handbuch 
+
+---------------------------------
+
+Inhaltsverzeichnis
+
+(1) Systemanforderungen
+(2) Installation
+(3) DirectX
+(4) Grafikprobleme
+(5) Windows-Konfiguration
+(6) CD-ROM-Laufwerke
+(7) Deinstallation
+(8) Problemlîsung
+(9) Kundenservice
+
+---------------------------------
+
+(1)	SYSTEMANFORDERUNGEN
+
+Damit Sie Wetrix auf Ihrem Rechner spielen kînnen, mu· dieser folgende Mindestvoraussetzungen erfÅllen:
+
+Windows 95/98
+Pentium 90 
+16 Megabyte RAM 
+CD-ROM-Laufwerk (mindestens Double Speed (2x)) 
+DirectX 5 oder hîhere Version
+15 MB freier Festplattenspeicher (Minimale Installation)
+
+Empfohlene Rechnerkonfiguration:Pentium 166 oder schneller
+32 Megabyte RAM oder mehr
+Microsoft-kompatible Maus
+AWE 64 Soundkarte
+32 MB Festplattenspeicher (Normale Installation
+
+
+(2) 	INSTALLATION
+
+(i)   Autorun
+Sofern die Autorun-Option (Automatische Benachrichtigung beim Wechsel) auf Ihrem Rechner aktiviert ist, wird das Installationsprogramm nach dem Einlegen der Wetrix-CD gestartet. Falls das Installationsprogramm nicht automatisch startet, kînnen Sie es selber aufrufen, indem Sie das Hauptverzeichnis der CD îffnen und die Datei "Setup" starten.
+
+
+
+(3) 	DIRECTX
+
+(i)	Die Installation von DirectX
+Wetrix lÑuft nur dann unter Windows 95, wenn DirectX 5 oder eine hîhere Programmversion installiert ist. DirectX wird nicht automatisch zusammen mit Wetrix installiert, aber das Installationsprogramm befindet sich auf der CD (falls beim Starten von Wetrix eine Fehlermeldung darauf hinweist, da· die Datei DDRAW.DLL nicht gefunden wurde, ist Direct X nicht installiert).
+Um DirectX zu installieren, betrachten Sie den Inhalt der CD (indem Sie mit der rechten Maustaste auf das CD-Icon im Arbeitsplatz-Fenster klicken), îffnen Sie den Ordner "directx" und starten Sie das Programm "dxsetup". WÑhlen Sie dann die Option "Reinstall DirectX" (DirectX erneut installieren). Beachten Sie, da· Windows nach der Installation von DirectX neu gestartet werden mu·. Daher sollten vor Beginn der Installation alle eventuell laufenden Programme beendet werden, um einen mîglichen Datenverlust zu vermeiden. 
+
+(ii)	Windows 98 Zu Windows 98 gehîrt auch eine fÅr Wetrix geeignete Version von DirectX. Auf einem Rechner, auf dem das Betriebssystem Windows 98 lÑuft, mu· DirectX daher nicht erneut von der Wetrix-CD installiert werden. 
+(iii)	Grafikkarten-UtilitiesDurch die Installation von DirectX werden oft Grafikkarten-Utilities entfernt, die zusammen mit den Treibern der Grafikkarte installiert wurden (bei Grafikkarten vom Typ "Matrox Millenium" wird beispielsweise "Matrox Powerdesk" entfernt). Dies ist ein fÅr DirectX typisches Verhalten, das zu keiner BeeintrÑchtigung bei der Konfiguration oder dem Betrieb Ihres Rechner fÅhren dÅrfte.
+Falls dennoch Probleme bei der Installation von Direct X auf Ihren Computer auftreten, wenden Sie sich bitte direkt an den Kundendienst von Microsoft.
+
+
+
+(4)	GRAFIKPROBLEME
+
+(i)	Wetrix im Fenstermodus
+Wenn Sie das Spiel in einem Fenster laufen lassen, sollte die Farbeinstellung Ihrer Windows-ArbeitsoberflÑche (Desktop) mindestens auf High Color (16 Bit) eingestellt sein. Das Betreiben des Spiels in einem Fenster bei einer Farbeinstellung von 256 Farben fÅhrt zu Farbfehlern.
+
+(ii) 	Probleme beim Spielen im 320*240-Vollbildmodus
+Falls irgendwelche Probleme auftreten, wenn Sie versuchen, das Spiel im 320*240-Vollbildmodus zu betreiben, sollten Sie den Modus "640*480 scaled" (640*480 skaliert)  vorziehen (der sich beim Testen als stabiler erwiesen hat und in welchem das Spiel ebenfalls mit einer Auflîsung von 320*240 Pixel lÑuft). 
+
+(iii) Grafikkartentreiber
+Bei Grafikproblemen jeglicher Art ist es ratsam, die neuesten Treiber fÅr Ihre Grafikkarte zu installieren (z.B. verursacht eine bestimmte Treiberversion fÅr "ATI Rage II"-Grafikkarten Probleme im 320*240-Vollbildmodus, welche sich durch die Installation der neuesten Treiber beheben lassen).
+
+
+
+(5)  	WINDOWS-KONFIGURATION
+
+(i)   Virtual Desktop (Virtueller Desktop)
+Ein unter Windows eingerichteter Virtueller Desktop sollte vor dem Starten von Wetrix deaktiviert werden, da sonst die Windows-Bildschirmauflîsung beim Verlassen des Programms die Auflîsung des Desktops Åbernehmen kînnte.
+
+(ii)	Active DesktopWenn das Spiel auf einem Rechner lÑuft, bei dem der Active Desktop von Microsofts Internet Explorer 4 aktiviert ist, kann es vorkommen, da· nach dem Verlassen des Spiels die Taskleiste von Windows ein wenig nach oben gewandert ist. Um den gewohnten Zustand wiederherzustellen, ziehen Sie die Taskleiste mit der Maus einfach auf ihre ursprÅngliche Position zurÅck. 
+
+(iii) MauscursorFÅr Wetrix mu· die Standardeinstellung des Mauscursors ohne Mausspur verwendet werden. Um die entsprechenden Einstellungen zu ÅberprÅfen, îffnen Sie das START-MenÅ und klicken Sie im MenÅ "Einstellungen" auf "Systemsteuerung". Im "Systemsteuerung"-Fenster îffnen Sie Åber das Maus-Symbol das Dialogfeld "Eigenschaften von Maus". Um die Standardeinstellungen fÅr die Maus zu verwenden, klicken Sie auf den Kartenreiter "Zeiger". WÑhlen Sie die Option "Normale Auswahl" und klicken Sie auf die SchaltflÑche "Standard verwenden" (falls diese SchaltflÑche deaktiviert ist, wird bereits der Standard-Mauscursor verwendet). Um die Mausspur auszustellen, klicken Sie auf den Kartenreiter "Bewegung" und entfernen Sie, sofern vorhanden, das HÑkchen vor "Mausspur anzeigen", indem Sie auf das KÑstchen klicken. 
+
+(iv)  Wetrix minimierenEs ist nicht ratsam, Wetrix im Vollbildmodus durch DrÅcken der Tastenkombination ALT/TAB zu minimieren. Wenn Sie beim Spielen auf den Windows-Desktop zugreifen mÅssen, empfehlen wir Ihnen, den Fenstermodus mit einer Auflîsung von 320*240 Punkten zu verwenden.
+
+
+
+(6)	CD-ROM-LAUFWERKE 
+
+(i) 	CD-Wechsler
+Wenn Sie zum Installieren des Spiels einen CD-Wechsler (also ein CD-ROM-Laufwerk, in das mehrere CDs gleichzeitig eingelegt werden kînnen) verwenden, sollte die Wetrix-CD im ersten Fach eingelegt werden. Falls die CD in einem anderen Fach eingelegt ist, kînnen Sie zwar das Spiel starten, aber Sie mÅssen auf die Musikwiedergabe von der CD verzichten.
+
+
+
+(7)   DEINSTALLATION
+
+(i)   Wetrix deinstallieren
+Verwenden Sie die Karteikarte "Installieren/Deinstallieren" des Dialogfeldes "Eigenschaften von Software", um Wetrix zu deinstallieren (START-MenÅ, Einstellungen, Systemsteuerung, "Software"-Symbol). Markieren Sie den Eintrag "Wetrix for Windows 95" (Wetrix fÅr Windows 95) und klicken Sie auf die SchaltflÑche "HinzufÅgen/Entfernen".
+
+
+
+(8)	PROBLEMLôSUNG
+
+Falls Sie irgendwelche Probleme haben, Wetrix zu starten oder zu spielen, sollten Sie folgendes ausprobieren:
+
+(i)   Installieren Sie DirectX.
+Sie kînnen Direct X selber installieren. Zeigen Sie den Inhalt der CD an (indem Sie mit der rechten Maustaste auf das CD-Icon im Arbeitsplatz-Fenster klicken), îffnen Sie den Ordner "directx" und starten Sie das Programm "dxsetup". WÑhlen Sie dann die Option "Reinstall DirectX" (DirectX erneut installieren).
+
+(ii)  öberprÅfen Sie, ob alle "DirectX"-Treiber authentisiert sind.
+Um zu ÅberprÅfen, ob alle Treiber authentisiert sind, starten Sie das auf der Wetrix-CD befindliche Programm "dxsetup" (wie weiter oben beschreiben). Daraufhin wird eine Liste aller Komponenten angezeigt. Damit Ihre aktuelle Software einwandfrei lÑuft, sollte neben "Primary Display Driver" (PrimÑrer Bildschirmtreiber) und "Primary Sound Driver" (PrimÑrer Audiotreiber) das Wort "Certified" (Authentisiert) eingetragen sein. Ist dies nicht der Fall, kînnen Sie versuchen, DirectX selber zu installieren oder die aktuellen Treiber fÅr Ihre Grafik- oder Soundkarte vom jeweiligen Hersteller zu besorgen.
+
+(iii) Installieren Sie das Spiel erneut.
+Manchmal hilft es schon, wenn Sie Wetrix einfach deinstallieren und anschlie·end erneut installieren.
+
+(iv)	Vergewissern Sie sich, da· keine anderen Programme laufen.
+Schlie·en Sie alle anderen Programme, bevor Sie Wetrix starten.
+
+
+
+(9) Kundenservice
+
+
+Bei der Vielzahl der am Markt befindlichen Hard- und Softwarekomponenten und Systemkonfigurationen lassen sich Probleme bei der Installation und dem Betrieb von Software-Produkten leider niemals ganz ausschlie·en.
+
+Wir mîchten Ihnen bei eventuellen Schwierigkeiten mit unserer Software gerne weiterhelfen.
+
+* Benîtigen Sie Tips, Tricks oder Lîsungshilfen zu Wetrix oder zu einem anderen unserer Spiele?
+* Haben Sie Schwierigkeiten bei der Installation oder dem Betrieb unserer Software?
+* Mîchten Sie sich Åber die neuesten Infogrames-Produkte informieren?
+
+Dann kînnen Sie sich gerne schriftlich oder telefonisch, per Email oder Fax an uns wenden.
+
+
+Hotline
+
+Die Mitarbeiter unserer Hotline sind werktags von 15.00 bis 19.00 Uhr unter der Telefonnummer 06103/334 444 fÅr Sie da und helfen Ihnen gerne bei allen Schwierigkeiten mit unseren Produkten weiter.
+Um Ihnen bei technischen Problemen optimale Hilfe bieten zu kînnen, bitten wir Sie, sich vor Ihrem Anruf mîglichst Åber folgende Punkte zu informieren:
+
+* Den Titel sowie - falls bekannt - die Versionsnummer Ihres Produktes
+* Das von Ihnen verwendete System (Prozessortyp, RAM Speicher, Betriebssystem)
+* Die von Ihnen verwendete Zusatzsoftware (z.B. Virenschutzprogramme) 
+* Die in Ihrem Rechner eingebaute Hardware (Marke und Modell Ihrer Soundkarte, Grafikkarte, CD-ROM Laufwerk usw.)
+* Legen Sie sich nach Mîglichkeit auch einen Ausdruck Ihrer Startdateien (autoexec.bat, config.sys, win.ini . . .) bereit.
+
+Die wichtigsten Angaben erhalten Sie mit Hilfsprogrammen wie z.B. dem MS-DOS Programm "MSD".
+
+
+Customer Support
+
+NatÅrlich kînnen Sie uns auch schriftlich, per Fax oder per Email erreichen:
+
+INFOGRAMES Deutschland GmbH	Fax:	06103/334-600
+Customer Support 	Email:	hotline@infogrames.de
+Robert-Bosch-Str. 18		(technische Hilfe)
+63303 Dreieich		support@infogrames.de
+		(Umtausch und Lîsungshilfen)
+		info@infogrames.de
+		(Produktinformationen/ neueste Updates)
+
+Um Ihnen schnell und kompetent weiterhelfen zu kînnen, bitten wir Sie auch in diesem Fall um mîglichst genaue Problem- und Fehlerbeschreibungen sowie detaillierte Angaben Åber das von Ihnen verwendete System.
+Falls das von Ihnen erworbene Produkt einen Defekt aufweisen sollte, bitten wir Sie, es bei Ihrem SoftwarehÑndler umzutauschen. Falls dieser Software-Produkte vom Umtausch ausschlie·t, senden Sie uns bitte das komplette Produkt (einschlie·lich Handbuch, Verpackung und Kaufbeleg) gut verpackt zu. Bitte senden Sie zum Umtausch unbedingt die beiliegende Service-Karte mit.
+
+
+Mailbox und Internet
+
+Unsere Mailbox ist 24 Stunden am Tag fÅr Sie erreichbar. Unter der Nummer 06103/334-222 erhalten Sie aktuelle Lîsungshilfen, Tips und Tricks zu unseren Spielen. Sie kînnen sich die neuesten Demo-Versionen unserer Produkte, die aktuellsten Patches, Updates und vieles mehr kostenlos direkt auf Ihren Rechner laden oder sich mit anderen Anwendern Åber Erfahrungen mit Infogrames-Software austauschen.
+Aktuelle Informationen rund um die Uhr bietet Ihnen auch unsere Infogrames-Homepage. Unter www.infogrames.com finden Sie au·er Produktinformationen jede Menge zusÑtzlicher Infos rund um Infogrames sowie Lîsungen, Treiber, Patches und vieles mehr. Au·erdem kînnen Sie dort auch in unserem Diskussionsforum Tips und RatschlÑge finden und eigene Fragen beantwortet bekommen. Die Homepage ist mit jedem gÑngigen Browser zu erreichen. Wenn Sie mîchten, kînnen Sie auch einmal bei unserem FTP-Server (ftp.infogrames.de) vorbeischauen. Auch dort finden Sie eine gro·e Anzahl von Patches, Lîsungen, Demos etc. zum Herunterladen.
+
+SelbstverstÑndlich freuen wir uns auch Åber Kritik und Anregungen zu unseren Produkten!
+
+

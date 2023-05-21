@@ -1,0 +1,190 @@
+===================================
+Wetrix Game Text - German Language
+===================================
+
+Key names - used when redefining keys
+________________________________________
+
+"","","1","2","3","4","5","6","7","8","9","0","-","+","backspace","tab",  //0-15
+"q","w","e","r","t","y","u","i","o","p","l bracket","r bracket","enter","ctrl","a","s", //16-31
+"d","f","g","h","j","k","l","","","","left shift","","z","x","c","v",  //32-47
+"b","n","m",",",".","/","right shift","","alt gr","space","","","","","","",  //48-63
+"","","","","","num lock","","numpad 7","cursor up","numpad 9","","cursor left","numpad 5","cursor right","+","numpad 1",  //64-79
+"cursor down","numpad 3","numpad 0",".","","","backslash","","","","","","","","","",  //80-95
+"","","","","","","","","","","","","","","","",  //96-111
+"","","","","","","","","","","","","","","",""  //112-127
+
+______________________________________________
+
+Screen Text - All text messages used in game
+______________________________________________
+
+
+"by zed two ltd."
+"netzwerkspiel verlassen?"
+"cd audio track"
+"punkte:"
+"bonus:"
+"namen:"
+"leertaste drücken um anzufangen"
+"reparatur bonus:"
+"ich habe das Spiel begonnen"
+"host hat das Spiel begonnen"
+
+"level:"			//10
+"nächstes:"
+"punkzahl code"
+"drücke Feuer zum Starten" 
+"Warten auf den Host"
+"noch ein spiel?"
+"auswählen"
+"pause"
+"ja"
+"nein"
+
+"probespiel"			//20
+"wetrix klassik"
+"wetrix pro"
+"optionen"
+"- zurückgehen -"
+"weiterspielen"
+"neustart"
+"spiel verlassen"
+"hügelige landschaft a"
+"hügelige landschaft b"
+
+"eisschicht a"			//30
+"eisschicht b"
+"beliebige landschaft"
+"löcher in der landschaft"
+"halbvoller graben"
+"erhöhte geschwindigkeit +2"
+"1up vs 2up"
+"netzspiel"
+"erhöhte geschwindigkeit +5"
+"wetrix klassik bestzeiten"
+
+"wetrix pro bestzeiten"		//40
+"rätsel-modus"
+"herausforderungs-modus"
+"handikap modus"
+"1 min. herausforderung"
+"5 min. herausforderung"
+"100 stück herausforderung"
+"500 stück herausforderung"
+"vorgegebene reihenfolge a"
+"vorgegebene reihenfolge b"
+
+"keine seen"			//50
+"ein see"
+"zwei seen"
+"drei seen"
+"vier seen"
+"fünf seen"
+"sechs seen"
+"sieben seen"
+"acht seen"
+"neun seen"
+
+"zehn seen"			//60
+"1up: tastatur a"
+"1up: maus"
+"1up: joypad"
+""
+"1up: tastatur b"
+"2up: maus "
+"2up: joypad"
+"code:"
+"multiplayer"
+
+"2 spieler splitscreen"		//70
+"2 spieler netzwerk"
+"multiplayer netzwerk"
+"netzwerk einstellungen"
+"neues spiel starten"
+"ins laufende spiel einsteigen"
+""
+""
+""
+""
+
+""				//80
+""
+""
+""
+"wahl des direkt-x-providers"
+""
+""
+""
+""
+""
+
+""				//90
+""
+""
+""
+""
+""
+""
+""
+"hat das spiel verlassen"
+"eliminierte"
+
+"ist mit von der partie"	//100
+"flaggen"
+" "
+"hat gewonnen"
+"warten auf die mitspieler…"
+"warten auf den host…"
+"los geht's…"
+"game over…"
+"initiiert einen wasserangriff auf"
+"initiiert einen eisangriff auf"
+
+"initiiert einen erdbebenangriff auf"	//110
+"initiiert einen bombenrangriff auf"
+"spielerdaten wurden upgedated"
+"gefunden:"
+"hintergrund ändern"
+"untergrund ändern"
+"name:"
+"tastaturbelegung a"
+"tastaturbelegung b"
+"tasten wählen…"
+
+"hoch:"				//120
+"runter:"
+"links:"
+"rechts:"
+"fallenlassen:"
+"rotieren:"
+"attacke:"
+"ziel auswählen:"
+"esc drücken, wenn fertig"
+"hi scores herausforderung"
+
+"hi scores handikap"		//130
+"achtung!"
+"seen:"
+"punkte"
+"trockeneis-bonus"
+""
+""
+""
+""
+""
+
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+

@@ -1,0 +1,202 @@
+
+===================================
+Wetrix Game Text - French Language
+===================================
+
+Key names - used when redefining keys
+________________________________________
+
+"","","1","2","3","4","5","6","7","8","9","0","-","+","backspace","tab",  //0-15
+"q","w","e","r","t","y","u","i","o","p","l bracket","r bracket","enter","ctrl","a","s", //16-31
+"d","f","g","h","j","k","l","","","","left shift","","z","x","c","v",  //32-47
+"b","n","m",",",".","/","right shift","","alt gr","space","","","","","","",  //48-63
+"","","","","","num lock","","numpad 7","cursor up","numpad 9","","cursor left","numpad 5","cursor right","+","numpad 1",  //64-79
+"cursor down","numpad 3","numpad 0",".","","","backslash","","","","","","","","","",  //80-95
+"","","","","","","","","","","","","","","","",  //96-111
+"","","","","","","","","","","","","","","",""  //112-127
+
+______________________________________________
+
+Screen Text - All text messages used in game
+______________________________________________
+
+"by zed two ltd."
+"quitter jeu réseau?"
+"cd audio"
+"score:"
+"bonus:"
+"nom:"
+"appuyer sur barre espace pour commencer"
+"bonus de réparation:"
+"partie engagée par joueur"
+"partie engagée par serveur"
+
+"niv.:"				//10
+"suivant"
+"codes de score"
+"prêt à démarrer : Feu !"
+"patience, le serveur va lancer le jeu."
+"nouvel essai?"
+"sélectionner"
+"pause"
+"oui"
+"non"
+
+"mode entraînement"			//20
+"wetrix classique"
+"wetrix pro"
+"options"
+"- retour -"
+"poursuivre la partie"
+"refaire une partie"
+"terminer la partie"
+"terrain a soulevé"
+"terrain b soulevé"
+
+"couche de glace a"			//30
+"couche de glace b"
+"terrain au hasard"
+"trous au hasard"
+"fossé à moitié plein"
+"vitesse augmentée +2"
+"1 up vs 2 up"
+"partie en réseau"
+"vitesse augmentée +5"
+"wetrix classique hi scores"
+
+"wetrix pro hi scores"			//40
+"modes casse-tête"
+"modes challenge"
+"modes handicap"
+"challenge en 1 minute"
+"challenge en 5 minutes"
+"challenge 100 pièces"
+"challenge 500 pièces"
+"séquence préreglée a"
+"séquence préreglée b"
+
+"pas de lac"				//50
+"un lac"
+"deux lacs"
+"trois lacs"
+"quatre lacs"
+"cinq lacs"
+"six lacs"
+"sept lacs"
+"huit lacs"
+"neuf lacs"
+
+"dix lacs"				//60
+"1 up: clavier a"					
+"1 up: souris"
+"1 up: joypad"
+" "
+"2 up:clavier b"
+"2 up: souris"
+"2 up: joypad"
+"codes:"
+"multi-joueurs "
+
+"Ecran 2 joueurs"			//70
+"2 joueurs en réseau"
+"réseau multi-joueurs"
+"préparation jeu réseau"
+"engager une nouvelle partie"
+"entrer en cours de partie"
+" "
+" "
+" "
+" "
+
+" "				//80
+" "
+" "
+" "
+"sélectionner fournisseur directplay"
+" "
+" "
+" "
+" "
+" "
+
+" "			//90
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+"a quitté la partie"
+"éliminé par"
+
+
+"vient d'entrer dans la partie" //100
+"Etendards"
+"de"
+"est le vainqueur"
+"d'autre joueurs sont attendus"
+"on attend serveur"
+"début de partie"
+"game over"
+"lance une attaque d'eau sur"
+"lance une attaque de glace sur"
+
+"déclenche un séisme sur"	//110
+"bombarde"
+"information supplementaire sur joueur"
+"trouvé :" 
+"changer décor"
+"changer motif de sol"
+"nom :"
+"redéfinir touches a"
+"redéfinir touches b"
+"choisir les touches"
+
+"monter"			//120
+"descendre"
+"à gauche"
+"à droite"
+"placer"
+"réorienter"
+"attaque"
+"sélectionner"
+"Echap. pour terminer"
+"challenge mode records"
+
+"handicap mode records"		//130
+"attention!"
+"lacs :"
+"scores"
+"bonus glace sèche"
+
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "

@@ -1,0 +1,78 @@
+:Title Wetrix Help
+1 Installation=IN_CONTENTS@Wetrix.hlp>main
+1 Getting Started
+2 Getting Started=GS_CONTENTS@Wetrix.hlp>main
+2 Running Wetrix for Windows=GS_WINDOWS@Wetrix.hlp>main
+2 Game Menus
+3 Game Menus=GS_MENUS@wetrix.hlp>main
+3 Main Menu=GS_MAIN_MENU@Wetrix.hlp>main
+3 Puzzle Modes Menu
+4 Challenge Modes Menu=GS_CHALLENGE@wetrix.hlp>main
+4 Handicap Modes Menu=GS_HANDICAP@wetrix.hlp>main
+3 Options Menu
+4 Options Menu=GS_OPTIONS_MENU@wetrix.hlp>main
+4 Scores Menu=GS_SCORES_MENU@wetrix.hlp>main
+2 Network Game Menus
+3 Main Menu with Network Patch=NW_MAIN_MENU@wetrix_net.hlp>main
+3 Multiplayer Modes menu=NW_MULTIPLAY_MENU@wetrix_net.hlp>main
+3 Network Game Setup menu=NW_NETWORK_SETUP_MENU@wetrix_net.hlp>main
+1 Gameplay
+2 Gameplay=GP_CONTENTS@Wetrix.hlp>main
+2 Game Types
+3 Game Types=GP_TYPES@Wetrix.hlp>main
+3 Wetrix Classic=GP_CLASSIC@wetrix.hlp>main
+3 Wetrix Pro=GP_PRO@wetrix.hlp>main
+3 Practice Mode=GP_PRACTICE@wetrix.hlp>main
+3 Puzzle Modes
+4 Challenge Modes
+5 1 Minute Challenge=GP_CHALLENGE_1MIN@wetrix.hlp>main
+5 5 Minute Challenge=GP_CHALLENGE_5MIN@wetrix.hlp>main
+5 100 Piece Challenge=GP_CHALLENGE_100P@wetrix.hlp>main
+5 500 Piece Challenge=GP_CHALLENGE_500P@wetrix.hlp>main
+5 Preset Sequence A=GP_CHALLENGE_SEQA@wetrix.hlp>main
+5 Preset Sequence B=GP_CHALLENGE_SEQB@wetrix.hlp>main
+4 Handicap Modes
+5 Raised Land A=GP_HANDICAP_RASA@wetrix.hlp>main
+5 Raised Land B=GP_HANDICAP_RASB@wetrix.hlp>main
+5 Ice Layer A=GP_HANDICAP_ICEA@wetrix.hlp>main
+5 Ice Layer B=GP_HANDICAP_ICEB@wetrix.hlp>main
+5 Random Land=GP_HANDICAP_RNDL@wetrix.hlp>main
+5 Random Holes=GP_HANDICAP_RNDH@wetrix.hlp>main
+5 Half Full Drain=GP_HANDICAP_DRAH@wetrix.hlp>main
+2 Multiplayer Modes=GP_MULTI@wetrix.hlp>main
+2 How to Play
+3 Solo Wetrix=GP_HOW@WETRIX.HLP>main
+3 2 Player Split Screen=GP_1V2@WETRIX.HLP>main
+3 Network Game=NW_PLAY@WETRIX_NET.HLP>main
+1 Game Features
+2 Game Features=GF_CONTENTS@Wetrix.hlp>main
+2 Pieces=GF_PIECES@Wetrix.hlp>main
+2 Events=GF_EVENTS@Wetrix.hlp>main
+2 Other game elements=GF_OTHER@Wetrix.hlp>main
+2 2 Player features=GF_MULTI@Wetrix.hlp>main
+2 Multiplayer features=NW_FEATURES@wetrix_net.hlp>main
+2 Hi Scores=GF_HI_SCORES@Wetrix.hlp>main
+1 Game Controls
+2 Game Controls=GC_CONTENTS@Wetrix.hlp>main
+2 Keyboard=GC_KEYBOARD@Wetrix.hlp>main
+2 Mouse=GC_MOUSE@Wetrix.hlp>main
+1 Network patch
+2 Network Game=NW_CONTENTS@wetrix_net.hlp>main
+2 Multiplayer Modes=NW_MULTI@wetrix_net.hlp>main
+2 Multiplayer Menus=NW_MAIN_MENU@wetrix_net.hlp>main
+2 Network Game Features=NW_FEATURES@wetrix_net.hlp>main
+1 Advanced Techniques
+2 Advanced Techniques=AT_CONTENTS@Wetrix.hlp>main
+2 Uppers=AT_UPPERS@Wetrix.hlp>main
+2 Downers=AT_DOWNERS@Wetrix.hlp>main
+2 Bombs=AT_BOMBS@Wetrix.hlp>main
+2 Fireballs=AT_FIREBALLS@wetrix.hpl>main
+2 Ice=AT_ICE@Wetrix.hlp>main
+2 Mines=AT_MINES@Wetrix.hlp>main
+2 Rainbow=AT_RAINBOW@Wetrix.hlp>main
+2 Rubber Ducky=AT_RUBBER@Wetrix.hlp>main
+2 Energy Bar=AT_ENERGY@Wetrix.hlp>main
+2 Windowed Mode=AT_WINDOWED@Wetrix.hlp>main
+1 Credits
+2 Legal Notices=CR_CONTENTS@Wetrix.hlp>main
+2 Zed Two Development Team=CR_ZEDTWO@Wetrix.hlp>main

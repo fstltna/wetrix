@@ -1,0 +1,192 @@
+===================================
+Wetrix Game Text - Spanish Language
+===================================
+
+Key names - used when redefining keys
+________________________________________
+
+"","","1","2","3","4","5","6","7","8","9","0","-","+","backspace","tab",  //0-15
+"q","w","e","r","t","y","u","i","o","p","l bracket","r bracket","enter","ctrl","a","s", //16-31
+"d","f","g","h","j","k","l","","","","left shift","","z","x","c","v",  //32-47
+"b","n","m",",",".","/","right shift","","alt gr","space","","","","","","",  //48-63
+"","","","","","num lock","","numpad 7","cursor up","numpad 9","","cursor left","numpad 5","cursor right","+","numpad 1",  //64-79
+"cursor down","numpad 3","numpad 0",".","","","backslash","","","","","","","","","",  //80-95
+"","","","","","","","","","","","","","","","",  //96-111
+"","","","","","","","","","","","","","","",""  //112-127
+
+______________________________________________
+
+Screen Text - All text messages used in game
+______________________________________________
+
+
+"by zed two ltd."
+"¿abandonar juego en red?"
+"cd audio track"
+"punt.:"
+"puntos:"
+"nombre:"
+"pulsar espacio para empezar"
+"puntos extra:"
+"Yo he comenzado la partida"
+"partida iniciada por (el) servidor"
+
+"nivel:"				//10
+"siguiente"
+"cod. punt."
+"preparado pulsa botón fuego"
+"esperando servidor para comenzar"
+"¿otro intento?"
+"seleccionar"
+"pausa"
+"sí"
+"no"
+
+"practicar modalidad"			//20
+"wetrix clásico"
+"wetrix pro"
+"opciones"
+"- atrás -"
+"continuar partida"
+"nueva partida"
+"abandonar partida"
+"elevar terreno a"
+"elevar terreno b"
+
+"capa de hielo a"			//30
+"capa de hielo b"
+"tierra aleatoria"
+"agujeros aleatorios"
+"drenar la mitad"
+"aumentar velocidad + 2"
+"1up contra 2up"
+"juego en red"
+"aumentar velocidad + 5"
+"wetrix clásic hi scores"
+
+"wetrix pro hi scores"			//40
+"modalidades de puzzle"
+"modalidades  de reto"
+"modalidades de obstáculo"
+"reto de 1 minuto"
+"reto de 5 minutos"
+"reto de 100 piezas"
+"reto de 500 piezas"
+"preprogramar secuencia a"
+"preprogramar secuencia b"
+
+"sin lagos"				//50
+"un lago"
+"dos lagos"
+"tres lagos"
+"cuatro lagos"
+"cinco lagos"
+"seis lagos"
+"siete lagos"
+"ocho lagos"
+"nueve lagos"
+
+"diez lagos"		//60
+"1up: teclado a"
+"1up: ratón"
+"1up: joypad"
+""
+"2up: teclado b"
+"2up: ratón"
+"2up: joypad"
+"cod:"
+"múltiples jugadores"
+
+"2 jug(adores)"  //70
+"2 (jug)adores en red"
+"red de múltiples jugadores"
+"preparación de partida en red"
+"comenzar nueva partida"
+"entrar en partida"
+""
+""
+""
+""
+
+""			//80
+""
+""
+""
+"seleccionar proveedor de directplay"
+""
+""
+""
+""
+""
+
+""			//90
+""
+""
+""
+""
+""
+""
+""
+"ha abandonar la partida"
+"ha sido derrotado/-a por"
+
+"se ha unida a la partida"	//100
+"bandera"
+"de"
+"es el ganador"
+"esperando a otros jugadores"
+"esperando al servidor"
+"Comienza la partida…"
+"game over…"
+"a lanzado ataque de agua sobre"
+"a lanzado ataque de hielo sobre"
+
+"a lanzado terremoto sobre"	//110
+"a bombardenado a"
+"información actualizada sobre los jugadores"
+"encontrado"
+"cambiar imagen de fondo"
+"cambiar (motivo del) suelo"
+"nombre"
+"cambiar configuración a"
+"cambiar configuración b"
+"elegir teclas"
+
+"arriba"		//120
+"abajo"
+"izquierda"
+"derecha"
+"bajar pieza"
+"girar pieza"
+"lanzar ataque"
+"selezionar"
+"pulsar esc para salir"
+"record de modalidad reto"
+
+"modalidad obstaculo"	//130
+"¡cuidado!"
+"lagos:"
+"punt."
+"puntos extra: hielo seco"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+
+
+
+

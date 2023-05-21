@@ -1,0 +1,189 @@
+===================================
+Wetrix Game Text - English Language
+===================================
+
+Key names - used when redefining keys
+________________________________________
+
+"","","1","2","3","4","5","6","7","8","9","0","-","+","backspace","tab",  //0-15
+"q","w","e","r","t","y","u","i","o","p","l bracket","r bracket","enter","ctrl","a","s", //16-31
+"d","f","g","h","j","k","l","","","","left shift","","z","x","c","v",  //32-47
+"b","n","m",",",".","/","right shift","","alt gr","space","","","","","","",  //48-63
+"","","","","","num lock","","numpad 7","cursor up","numpad 9","","cursor left","numpad 5","cursor right","+","numpad 1",  //64-79
+"cursor down","numpad 3","numpad 0",".","","","backslash","","","","","","","","","",  //80-95
+"","","","","","","","","","","","","","","","",  //96-111
+"","","","","","","","","","","","","","","",""  //112-127
+
+______________________________________________
+
+Screen Text - All text messages used in game
+______________________________________________
+
+" by zed two ltd.",        		// 0
+"lascia gioco en rete?"
+"cd audio track:"
+"punt.:"
+"bonus:"
+"nome:"
+"premi spazio per iniziare"
+"bonus di correzione:"
+"io inizio la partita"
+"partita iniziata dal server"
+
+"livello:"			//10
+"successivo:"
+"codici punti"
+"pronto per iniziare - premi fuoco"
+""
+"altra partita?"
+"seleziona"
+"pausa"
+"si"
+"no"
+
+"modalità  pratica"		//20
+"wetrix classico"
+"wetrix pro"
+"opzioni"
+"- ritorna indietro-"
+"continua il gioco"
+"nuovo gioco"
+"abbandona il gioco"
+"alza terreno a"
+"alza terreno b"
+
+"strato di ghiaccio a"		//30
+"strato di ghiaccio b"
+"terra casuale"
+"buchi casuali"
+"canale mezzo pieno"
+"aumenta velocità +2"
+"1up contro 2up"
+"partita in rete"
+"aumenta velocità +5"
+"classico hi scores"
+
+"pro hi scores"			//40
+"modalità puzzle"
+"modalità sfida"
+"modalità handicap"
+"sfida di 1 minuto"
+"sfida di 5 minuti"
+"sfida da 100 pezzi"
+"sfida da 500 pezzi"
+"sequenza prestabilita a"
+"sequenza prestabilita b"
+
+"no laghi"			//50
+"un lago"
+"due laghi"
+"tre laghi"
+"quattro laghi"
+"cinque laghi"
+"sei laghi"
+"sette laghi"
+"otto laghi"
+"nove laghi"
+
+"dieci laghi"			//60
+"1up: keyboard a"
+"1up: mouse"
+"1up: joypad"
+""
+"2up: keyboard b"
+"2up: mouse"
+"2up: joypad"
+"codici:"
+"multiplayer"
+
+"2 giocatori"	//70
+"2 giocatori en rete"
+"multiplayer in rete"
+"avvio gioco in rete"
+"inizia nuovo gioco"
+"inscerisciti in gioco esistanto"
+""
+""
+""
+""
+
+""				//80
+""
+""
+""
+"scegli il provider directplay"
+""
+""
+""
+""
+""
+
+""				//90
+""
+""
+""
+""
+""
+""
+""
+"ha lasciato il gioco"
+"è stato eliminato da"
+
+"è entrado nel gioco"		//100		
+"bandiere"
+"di"
+"è il vincitore"
+"aspetta: altri giocatori"
+"aspetta: server"
+"Inizio partita…"
+"game over…"
+"lancia attachi d'acqua su"
+"lancia di ghiaccio su"
+
+"lancia terremoto su"		//110
+"lancia bombe su"
+"dati aggiornati sul giocatore"
+"trovato"
+"cambia sfondo"
+"cambia disegno suolo"
+"nome"
+"ridefinisci funzioni tasti a"
+"ridefinisci funzioni tasti b"
+"scegli tasti"
+
+"alto"				//120
+"basso"
+"sinistra"
+"destra"
+"sgancia"
+"ruotare"
+"attacco"
+"selezion"
+"premi esc una volta terminato"
+"modalita sfida"
+
+"modalita handiacap"		//130
+"attenzione!"
+"laghi:"
+"punt."
+"bonus ghiacco secco"
+""
+""
+""
+""
+""
+
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
